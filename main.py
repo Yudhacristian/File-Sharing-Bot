@@ -1,3 +1,3 @@
-from bot import Bot
+from pyrogram.enums import ParseMode
 
 Bot().run()
